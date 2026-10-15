@@ -1,3 +1,7 @@
+<img width="421" height="465" alt="Screenshot 2026-10-15 at 8 53 14 PM" src="https://github.com/user-attachments/assets/915b00cc-ff23-42b2-9111-f55b4346abd6" />
+
+
+
 # MergeWatch
 
 MergeWatch is a native SwiftUI macOS app for monitoring GitHub pull requests across repositories. It puts an attention indicator in the menu bar and organizes the main dashboard by repository.
